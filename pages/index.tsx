@@ -1,4 +1,4 @@
-import { MdAirplay , MdMenuBook } from "react-icons/md";
+import { MdAirplay, MdMenuBook } from "react-icons/md";
 
 const Home = () => {
   return (
@@ -110,7 +110,6 @@ const Home = () => {
                   Futuro Ingeniero en sistemas de la Universidad De Antioquia
                   con anhelo de superación constante
                 </p>
-                
               </div>
               <div>Boton</div>
             </div>
@@ -120,7 +119,7 @@ const Home = () => {
             <h3>Titulo</h3>
             <p></p>
             <div>
-              <div>Titulo1</div>
+              <div> Este es un ejemplo de cambio </div>
               <div>Titulo2</div>
               <div>Titulo3</div>
             </div>
