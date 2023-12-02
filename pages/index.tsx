@@ -167,11 +167,12 @@ const Home = () => {
               <MdMenuBook />
               <div className="flex flex-col ">
                 <span>Estudiante Universitario</span>
-                <span>Universidad de Antioquia-Medellin</span>
+                <span>Universidad de Antioquia-Medellín</span>
               </div>
             </div>
           </section>
           <div className="  h-full">
+            
             <Footer />
           </div>
         </section>
