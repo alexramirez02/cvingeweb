@@ -15,6 +15,10 @@
   @apply flex justify-between h-1/4 w-[970px];
 
 } 
+.todos3{
+  @apply flex items-center h-3/4 w-full gap-8;
+
+} 
 
 /* .nombre1>img
  {
@@ -47,3 +51,9 @@ margin:0;
 
 } */ 
 
+
+
+ .nombre1>ImaFoto
+ {
+
+  @apply rounded-full}
