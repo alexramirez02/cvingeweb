@@ -22,7 +22,7 @@ const Home = () => {
             
             <Image
               className="rounded-full"
-              src="/media/alex.jpg"
+              src="/media/alex3.png"
               alt="Foto Alex"
               width={70}
               height={70}
@@ -141,7 +141,7 @@ const Home = () => {
             </div>
             <div className=" w-1/4 h-full bg-white flex flex-col items-center">
               <Image
-                src="/segunda/alex2.png"
+                src="/segunda/alex3.png"
                 alt="Foto Alex"
                 width={80}
                 height={500}
