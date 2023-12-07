@@ -149,7 +149,7 @@ const Home = () => {
             </div>
           </section>
           <section >
-            <div className="flex flex-col items-center ">
+            <div className="flex flex-col items-center p-1 ">
               <h3> Formación Académica</h3>
             </div>
           </section>
